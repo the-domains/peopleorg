@@ -1,16 +1,16 @@
-typography_spectrum: 0.29102016636170447
+typography_spectrum: 0.88955083838664
 color:
-  brandStrength: 0.030562134692445397
-  lightness: 0.8622411589603871
-  saturation: 0.9863364994525909
-  rhythmicContrast: 0.7332931347191334
+  brandStrength: 0.5679650108795613
+  lightness: 0.6112487509381026
+  saturation: 0.7516567956190556
+  rhythmicContrast: 0.3806840863544494
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.06845382694154978
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.48146934318356216
 author:
   name: Jan Friman
   email: jan@peopleorg.co
