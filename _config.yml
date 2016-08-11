@@ -1,0 +1,14 @@
+layout_spectrum: 0.06845382694154978
+typography_spectrum: 0.29102016636170447
+color:
+  brandStrength: 0.030562134692445397
+  lightness: 0.8622411589603871
+  saturation: 0.9863364994525909
+  rhythmicContrast: 0.7332931347191334
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: PeopleOrg
