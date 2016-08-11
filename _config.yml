@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.06845382694154978
+author:
+  name: Jan Friman
+  email: jan@peopleorg.co
+  url: peopleorg.co
 name: PeopleOrg
 title: You Are People
 description: Aligning Organizations Digitally
