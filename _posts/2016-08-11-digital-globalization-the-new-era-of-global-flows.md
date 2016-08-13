@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T12:56:57.546Z'
+datePublished: '2016-08-13T14:13:10.590Z'
 sourcePath: _posts/2016-08-11-digital-globalization-the-new-era-of-global-flows.md
 isBasedOnUrl: >-
   http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/digital-globalization-the-new-era-of-global-flows
@@ -17,20 +17,16 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-13T12:56:56.951Z'
+dateModified: '2016-08-13T14:13:09.844Z'
 title: Organizing for digital space.
 app_links: []
 publisher: {}
 description: >-
   To render an organization capable of connecting teams digitally a completely
   different way of organizing people in digital space is required. At PeopleOrg
-  we call that type of organization a ‘Molecular Organization’. If your team,
-  business or organization are in need of quickly adapting to the world of
-  digital space in which you can connect with customers and team member in a
-  fluent and immersive fashion, then please fill in the form to allow us assist
-  you and your team [Link to form upcoming].
+  we call that type of organization a ‘Molecular Organization’. 
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -44,5 +40,6 @@ _type: MediaObject
 
 <article style=""><h1>Digital globalization: The new era of global flows</h1><p>Soaring flows of data and information now generate more economic value than the global goods trade. Conventional wisdom says that globalization has stalled. But although the global goods trade has flattened and cross-border capital flows have declined sharply since 2008, globalization is not heading into reverse.</p></article>
 
-To render an organization capable of connecting teams digitally a completely different way of organizing people in digital space is required. At PeopleOrg we call that type of organization a 'Molecular Organization'.  
+To render an organization capable of connecting teams digitally a completely different way of organizing people in digital space is required. At **PeopleOrg** we call that type of organization a _'Molecular Organization'_.
+
 If your team, business or organization are in need of quickly adapting to the world of digital space in which you can connect with customers and team member in a fluent and immersive fashion, then please fill in the form to allow us assist you and your team \[Link to form upcoming\].
