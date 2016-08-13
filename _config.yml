@@ -16,5 +16,9 @@ author:
   email: jan@peopleorg.co
   url: peopleorg.co
 name: PeopleOrg
+navigation:
+  - name: PeopleOrg | Business
+    id: 6252a25f-02c9-40a0-983f-3306236283ec
+    type: content
 title: People Are We
 description: Aligning Organizations Digitally
