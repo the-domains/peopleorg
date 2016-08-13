@@ -29,13 +29,13 @@ description: >-
 inLanguage: en
 app_links: []
 title: 'Slack, Facebook at Work and the future of social collaboration ?'
-datePublished: '2016-08-13T14:08:11.338Z'
-dateModified: '2016-08-13T14:08:10.632Z'
+datePublished: '2016-08-13T15:09:27.699Z'
+dateModified: '2016-08-13T15:09:26.672Z'
 via: {}
 sourcePath: >-
   _posts/2016-08-11-slack-facebook-at-work-and-the-future-of-social-collaborati.md
 hasPage: true
-starred: false
+starred: true
 url: slack-facebook-at-work-and-the-future-of-social-collaborati/index.html
 _context: 'http://schema.org'
 _type: MediaObject
