@@ -73,12 +73,12 @@ app_links:
 title: >-
   Conversations and narratives are the new documents - What's The Future of
   Work?
-datePublished: '2016-08-13T14:05:25.231Z'
-dateModified: '2016-08-13T14:05:24.635Z'
+datePublished: '2016-08-13T15:08:25.290Z'
+dateModified: '2016-08-13T15:08:24.453Z'
 via: {}
 sourcePath: _posts/2016-08-11-conversations-and-narratives-are-the-new-documents-whats.md
 hasPage: true
-starred: false
+starred: true
 url: conversations-and-narratives-are-the-new-documents-whats/index.html
 _type: Article
 _context: 'http://schema.org'
