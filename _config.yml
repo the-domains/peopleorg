@@ -16,5 +16,9 @@ author:
   email: jan@peopleorg.co
   url: 'http://flipboard.com/@janfriman'
 name: PeopleOrg
+navigation:
+  - name: Join Community!
+    url: 'https://peoplearewe.mightybell.com/'
+    type: external
 title: People Are We
 description: Aligning Organizations Digitally
