@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-13T13:15:37.844Z'
+datePublished: '2016-08-13T13:19:50.852Z'
 sourcePath: _posts/2016-08-12-the-most-important-design-jobs-of-the-future.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T13:15:37.177Z'
+dateModified: '2016-08-13T13:19:49.790Z'
 title: The Most Important Design Jobs Of The Future
 publisher: {}
 description: Culture Designer and a few others seem to be missing - please add to the list.
-starred: false
+starred: true
 url: the-most-important-design-jobs-of-the-future/index.html
 _type: MediaObject
 
