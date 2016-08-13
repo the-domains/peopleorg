@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-13T12:43:42.473Z'
+datePublished: '2016-08-13T13:15:37.844Z'
 sourcePath: _posts/2016-08-12-the-most-important-design-jobs-of-the-future.md
-isBasedOnUrl: >-
-  http://www.fastcodesign.com/3054433/design-moves/the-most-important-design-jobs-of-the-future
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T12:43:41.842Z'
+dateModified: '2016-08-13T13:15:37.177Z'
 title: The Most Important Design Jobs Of The Future
 publisher: {}
 description: Culture Designer and a few others seem to be missing - please add to the list.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: the-most-important-design-jobs-of-the-future/index.html
 _type: MediaObject
 
 ---
