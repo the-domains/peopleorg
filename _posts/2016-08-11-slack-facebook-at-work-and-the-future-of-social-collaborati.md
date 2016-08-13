@@ -28,18 +28,15 @@ description: >-
   disrupt the established landscape.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.duperrin.com/english/2016/08/02/slack-facebook-work-social-collaboration/
 title: 'Slack, Facebook at Work and the future of social collaboration ?'
-datePublished: '2016-08-11T18:08:43.255Z'
-dateModified: '2016-08-11T18:08:35.684Z'
+datePublished: '2016-08-13T11:16:40.126Z'
+dateModified: '2016-08-13T11:16:39.105Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-11-slack-facebook-at-work-and-the-future-of-social-collaborati.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: slack-facebook-at-work-and-the-future-of-social-collaborati/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
