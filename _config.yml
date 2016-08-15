@@ -20,7 +20,7 @@ navigation:
   - name: Join Community!
     url: 'https://peoplearewe.mightybell.com/'
     type: external
-  - name: Onboard
+  - name: Welcome Onboard
     url: 'http://bit.ly/PAWOnboard'
     type: external
 title: People Are We
