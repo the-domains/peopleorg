@@ -17,7 +17,7 @@ author:
   url: 'http://flipboard.com/@janfriman'
 name: PeopleOrg
 navigation:
-  - name: Get Invitation
+  - name: Get Invite
     url: 'https://peoplearewe.mightybell.com/'
     type: external
   - name: Onboard Yourself
