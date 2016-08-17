@@ -20,7 +20,7 @@ navigation:
   - name: Get Invite
     url: 'https://peoplearewe.mightybell.com/'
     type: external
-  - name: Onboard Yourself
+  - name: Onboard
     url: 'http://bit.ly/PAWOnboard'
     type: external
 title: People Are We
