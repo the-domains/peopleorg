@@ -23,5 +23,8 @@ navigation:
   - name: Onboard
     url: 'http://bit.ly/PAWOnboard'
     type: external
+  - name: Open Research
+    url: 'http://flip.it/5gb4tt'
+    type: external
 title: People Are We
 description: Aligning Organizations Digitally
