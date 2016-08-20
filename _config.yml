@@ -20,14 +20,14 @@ navigation:
   - name: Get Invite
     url: 'https://peoplearewe.mightybell.com/'
     type: external
+  - name: Onboard
+    url: 'http://bit.ly/PAWOnboarding'
+    type: external
   - name: Open Research
     url: 'http://flip.it/5gb4tt'
     type: external
   - name: The Story
     url: 'http://bit.ly/RekindlingCWHR'
-    type: external
-  - name: Onboard
-    url: 'http://bit.ly/PAWOnboarding'
     type: external
 title: People Are We
 description: Aligning Organizations Digitally
