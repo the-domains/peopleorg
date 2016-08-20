@@ -20,9 +20,6 @@ navigation:
   - name: Get Invite
     url: 'https://peoplearewe.mightybell.com/'
     type: external
-  - name: Onboard
-    url: 'http://bit.ly/PAWOnboard'
-    type: external
   - name: Open Research
     url: 'http://flip.it/5gb4tt'
     type: external
