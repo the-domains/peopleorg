@@ -16,16 +16,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.1180485293734819
+  saturation: 0.2680851
   brandStrength: 0.1190514147747308
-  rhythmicContrast: 0.4603984670247883
+  lightness: 0.3510638
   brandColors:
     - '#304269'
     - '#91BED4'
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-  lightness: 0.5934702870436013
+  rhythmicContrast: 0.5595745
 typography_spectrum: 0.5041110187303275
 description: Aligning Organizations Digitally
 navigation:
