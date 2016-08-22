@@ -1,21 +1,33 @@
-typography_spectrum: 0.5041110187303275
+author:
+  name: Jan Friman
+  email: jan@peopleorg.co
+  url: 'http://flipboard.com/@janfriman'
+title: People Are We
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1180485293734819
   brandStrength: 0.1190514147747308
-  lightness: 0.5934702870436013
-  saturation: 0.11804852937348187
-  rhythmicContrast: 0.46039846702478826
+  rhythmicContrast: 0.4603984670247883
   brandColors:
     - '#304269'
     - '#91BED4'
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-layout_spectrum: 0.41024322994053364
-author:
-  name: Jan Friman
-  email: jan@peopleorg.co
-  url: 'http://flipboard.com/@janfriman'
-name: PeopleOrg
+  lightness: 0.5934702870436013
+typography_spectrum: 0.5041110187303275
+description: Aligning Organizations Digitally
 navigation:
   - name: Get Invite
     url: 'https://peoplearewe.mightybell.com/'
@@ -29,5 +41,5 @@ navigation:
   - name: Open Research
     url: 'http://flip.it/5gb4tt'
     type: external
-title: People Are We
-description: Aligning Organizations Digitally
+layout_spectrum: 0.2851064
+name: PeopleOrg
