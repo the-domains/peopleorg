@@ -1,3 +1,16 @@
+layout_spectrum: 0.7273126465734094
+typography_spectrum: 0.565456488635391
+color:
+  saturation: 0.8366068382747471
+  brandStrength: 0.1724837077781558
+  lightness: 0.7913492638617754
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  rhythmicContrast: 0.0008166080806404352
 author:
   name: Jan Friman
   email: jan@peopleorg.co
@@ -15,18 +28,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2680851
-  brandStrength: 0.1190514147747308
-  lightness: 0.3510638
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  rhythmicContrast: 0.5595745
-typography_spectrum: 0.5041110187303275
 description: Aligning Organizations Digitally
 navigation:
   - name: Get Invite
@@ -41,5 +42,4 @@ navigation:
   - name: Open Research
     url: 'http://flip.it/5gb4tt'
     type: external
-layout_spectrum: 0.2851064
 name: PeopleOrg
